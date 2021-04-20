@@ -1,8 +1,15 @@
-# Week 1/12 The Gapminder Project
+# Week 9/12 Deep Learning Project
    
-### Goal:
-The challenge of this project was to analyze and visualize statistics from the [Gapminder datasets](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/tree/main/Week1_Visual_Data_Analysis/Data) and create an animated scatterplot like the one by [Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo) to illustrate the correlation between life expectancy and fertility of the world’s countries from 1960 to 2015.
+### Background problem / Goal:
+In this project, the goal was to build an Artificial Neural Network recognizing handwritten digits from the MNIST dataset.
 
-### Tools Used: 
-Python, Pandas, Matplotlib, Seaborn, Imageio, Plotly, 
-   
+### Tools/Libraries Used: 
+Python, Pandas, Numpy, Matplotlib, Scikit-learn, tensorflow, keras
+
+### Workflow:
+1. Data Acquisition
+2. Inspection and exploration
+3. Cleaning and preparation
+4. Visualization
+5. Modeling & Evaluation
+6. Summary & Further Outlook
