@@ -1,4 +1,4 @@
-# Week 1/12 The Classification Project
+# Week 2/12 The Classification Project
    
 ### Background problem / Goal:
 The challenge of this project was to use a machine learning model to predict passenger survival on the Titanic.
