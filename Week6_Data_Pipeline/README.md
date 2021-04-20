@@ -1,8 +1,16 @@
-# Week 1/12 The Gapminder Project
+# Week 6/12 The Data Pipeline Project
    
-### Goal:
-The challenge of this project was to analyze and visualize statistics from the [Gapminder datasets](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/tree/main/Week1_Visual_Data_Analysis/Data) and create an animated scatterplot like the one by [Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo) to illustrate the correlation between life expectancy and fertility of the world’s countries from 1960 to 2015.
+### Background problem / Goal:
+In this project, we will build a data pipeline that collect tweets and stores them in a database, then analyze the sentiment of tweets, store the annotated tweets in a second database and build a bot to publish the best or worst sentiment for a given tweet on Slack every 10 minutes.
 
-### Tools Used: 
-Python, Pandas, Matplotlib, Seaborn, Imageio, Plotly, 
-   
+### Tools/Libraries Used: 
+Python, Pandas, Matplotlib, Scikit-learn, Wordcloud, nltk, BeautifulSoup
+
+### Workflow:
+1. Install Docker
+2. Build a data pipeline with docker-compose
+3. Collect Tweets
+4. Store Tweets in Mongo DB
+5. Create an ETL job transporting data from MongoDB to PostgreSQL
+6. Run sentiment analysis on the tweets
+7. Build a Slack bot that publishes selected tweets
