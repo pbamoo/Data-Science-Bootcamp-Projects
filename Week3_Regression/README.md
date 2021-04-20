@@ -1,8 +1,16 @@
-# Week 1/12 The Gapminder Project
+# Week 3/12 The Regression Project
    
-### Goal:
-The challenge of this project was to analyze and visualize statistics from the [Gapminder datasets](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/tree/main/Week1_Visual_Data_Analysis/Data) and create an animated scatterplot like the one by [Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo) to illustrate the correlation between life expectancy and fertility of the world’s countries from 1960 to 2015.
+### Background problem / Goal:
+The challenge of this project was to build and train a regression model on the Capital Bike Share (Washington, D.C.) Kaggle data set [https://www.kaggle.com/c/bike-sharing-demand/data], in order to predict demand for bicycle rentals at any given hour, based on time and weather.
 
-### Tools Used: 
-Python, Pandas, Matplotlib, Seaborn, Imageio, Plotly, 
-   
+### Tools/Libraries Used: 
+Python, Pandas, Matplotlib, Seaborn, Scikit-learn
+
+### Workflow:
+1. Data Acquisition
+2. Inspection and exploration
+3. Cleaning and preparation
+4. Visualization
+5. Modeling & Evaluation
+6. Forecasting
+7. Summary & Further Outlook
