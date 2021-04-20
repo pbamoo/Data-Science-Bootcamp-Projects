@@ -1,8 +1,14 @@
-# Week 1/12 The Gapminder Project
+# Week 5/12 The Dashboard Project
    
-### Goal:
-The challenge of this project was to analyze and visualize statistics from the [Gapminder datasets](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/tree/main/Week1_Visual_Data_Analysis/Data) and create an animated scatterplot like the one by [Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo) to illustrate the correlation between life expectancy and fertility of the world’s countries from 1960 to 2015.
+### Background problem / Goal:
+The goal for this project was to build a dashboard summarizing the Northwind Database containing all sales transactions between the fictional company “Northwind Traders” and its customers as well as purchases from Northwinds suppliers. The dashboard will be built on top of a Postgres database that runs in the AWS cloud.
 
-### Tools Used: 
-Python, Pandas, Matplotlib, Seaborn, Imageio, Plotly, 
-   
+### Workflow:
+1. Data Acquisition
+2. Install PostgreSQL
+3. Create one table per CSV file
+4. Load the data into the database
+5. Create foreign keys to connect the tables
+6. Explore and answer possible questions on the data in SQL
+7. Upload the data to a cloud database
+8. build an interactive dashboard on a cloud server
