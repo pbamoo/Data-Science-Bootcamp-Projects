@@ -1,7 +1,7 @@
 # Week 3/12 The Regression Project
    
 ### Background problem / Goal:
-The challenge of this project was to build and train a regression model on the Capital Bike Share (Washington, D.C.) Kaggle data set [https://www.kaggle.com/c/bike-sharing-demand/data], in order to predict demand for bicycle rentals at any given hour, based on time and weather.
+The challenge of this week was to build and train a regression model on the Capital Bike Share (Washington, D.C.) [Kaggle data set] (https://www.kaggle.com/c/bike-sharing-demand/data), in order to predict demand for bicycle rentals at any given hour, based on time and weather.
 
 ### Tools/Libraries Used: 
 Python, Pandas, Matplotlib, Seaborn, Scikit-learn
