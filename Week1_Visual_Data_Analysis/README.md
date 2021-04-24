@@ -7,7 +7,7 @@ The challenge of this project was to analyze and visualize statistics from the [
 Python, Pandas, Matplotlib, Seaborn, Imageio, Plotly 
 
 ### Workflow:
-1. [Data Acquisition:](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/tree/main/Week1_Visual_Data_Analysis/Data)
+1. [Data Acquisition:](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/tree/main/Week1_Visual_Data_Analysis/Data) The datasets(3) were obtained from http://www.gapminder.org/data website. 
 
 
 2. [Preprocessing1:](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week1_Visual_Data_Analysis/Code/1_utils.ipynb)
@@ -20,3 +20,6 @@ Python, Pandas, Matplotlib, Seaborn, Imageio, Plotly
 
 
 5. [Result & Outlook:](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/tree/main/Week1_Visual_Data_Analysis/Images) 
+   * Incorporate bigger (and more difficult) datasets/indices like GDP Per Capita, Literacy Rate, Employment Rate, Regions, etc. into the data analysis project to get more         insights to questions like:
+      - Which region of the world has been changing relatively quickly compared to others in terms of GDP, life expectancy, and other indices?
+      - How have income, population, child mortality, and children born per woman decide the life expectancy of a certain country?
