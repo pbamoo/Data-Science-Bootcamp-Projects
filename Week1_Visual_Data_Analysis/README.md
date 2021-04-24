@@ -10,7 +10,7 @@ Python, Pandas, Matplotlib, Seaborn, Imageio, Plotly
 1. [Data Acquisition:](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/tree/main/Week1_Visual_Data_Analysis/Data)
 
 
-2. [Preprocessing2:](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week1_Visual_Data_Analysis/Code/1_utils.ipynb)
+2. [Preprocessing1:](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week1_Visual_Data_Analysis/Code/1_utils.ipynb)
 
 
 3. [Preprocessing2:](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week1_Visual_Data_Analysis/Code/utils.ipynb)
