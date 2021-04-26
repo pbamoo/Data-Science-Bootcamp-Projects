@@ -2,7 +2,8 @@
    
 ### Background problem / Goal:
 The challenge of this project was to use a machine learning model to predict passenger survival on the Titanic.
-![Titanic](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week2_Classifiction/Images/stoewer_titanic.jpg)
+                   ![Titanic](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week2_Classifiction/Images/stoewer_titanic.jpg)
+                   Sinking of the Titanic/Untergang der Titanic, by Willy Stöwer, 1912, public domain
 
 ### Tools/Libraries Used: 
 Python, Pandas, Matplotlib, Seaborn, Scikit-learn
