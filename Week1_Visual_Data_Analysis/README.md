@@ -21,6 +21,8 @@ In order to understand and prepare the data for analysis, some data inspection a
 A glimpse of data and its context, as well as insights captured using descriptive statistics and visualization techniques can be found [here.](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week1_Visual_Data_Analysis/Code/3_EDA.ipynb)
 
 4. [Result & Outlook:]
+![Animated Scatter Plot](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week1_Visual_Data_Analysis/Images/4_EDA_px3.gif)
+
    * The main goal for the project, which was to reproduce the Hans Rosling animation scatterplot was [achieved.](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/tree/main/Week1_Visual_Data_Analysis/Images) 
    * From the [EDA](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week1_Visual_Data_Analysis/Code/3_EDA.ipynb), the population and life_expectancy shows an incremental trend while fertility rate is on the decline generally. Also, life expectancy seems to show a strong negative correlation to fertility rate with the rest metrics showing very weak to almost no correlation at all to each other.
    * This trend indicates that a person with a longer life expectancy tends to have a smaller number of children, might be explained by the school of thought that such persons are able to give a greater importance to their own integral self-care, and thus get more personal time to carry out projects that are very important for them, in other words, he/she gives greater importance to their own quality of life, since having a children represents a significant cost.(http://vox.lacea.org/?q=blog/life_expectancy_fertility)
