@@ -9,6 +9,10 @@ Python, Pandas, Matplotlib, Seaborn, Imageio, Plotly
 ### Workflow:
 1. Data Acquisition: 
 The [datasets(3)](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/tree/main/Week1_Visual_Data_Analysis/Data) were obtained from http://www.gapminder.org/data website. 
+   * Metrics Considered
+      - Life expectancy : defined as the average number of years a person is expected to live in given a certain social context. 
+      - Fertility rate : defined as the average number of children per woman.
+      - Total population : defined as the total number of people in a region at a given time.
 
 2. Preprocessing:
 In order to understand and prepare the data for analysis, some data inspection and preprocessing was done which can be found [here](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week1_Visual_Data_Analysis/Code/1_utils.ipynb) and eventually written into [functions](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week1_Visual_Data_Analysis/Code/utils.ipynb) for easabiliy in coding and scripting.
