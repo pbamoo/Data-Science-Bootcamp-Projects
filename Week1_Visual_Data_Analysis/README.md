@@ -18,7 +18,7 @@ A glimpse of data and its context, as well as insights captured using descriptiv
 
 4. [Result & Outlook:]
    * The main goal for the project, which was to reproduce the Hans Rosling animation scatterplot was [achieved.](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/tree/main/Week1_Visual_Data_Analysis/Images) 
-   * From the EDA, the population and life_expectancy shows an incremental trend while fertility rate is on the decline generally while life_expectancy seems to show a strong negative correlation to fertility_rate with the rest metrics showing very weak to almost no correlation at all to each other.
+   * From the [EDA](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week1_Visual_Data_Analysis/Code/3_EDA.ipynb), the population and life_expectancy shows an incremental trend while fertility rate is on the decline generally while life_expectancy seems to show a strong negative correlation to fertility_rate with the rest metrics showing very weak to almost no correlation at all to each other.
    * To understand and clearly explain the factors at play, bigger (and more difficult) datasets with additional metrics like GDP Per Capita, Literacy Rate, Employment Rate, Regions, etc. needs to be incorporate into the data analysis project to get more insights to questions like:
       - Which region of the world has been changing relatively quickly compared to others in terms of GDP, life expectancy, and other indices?
       - How have income, population, child mortality, and children born per woman decide the life expectancy of a certain country?
