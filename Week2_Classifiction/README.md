@@ -27,6 +27,7 @@ A glimpse of data and its context, as well as insights captured using descriptiv
 ![Survival based on various features](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week2_Classifiction/Images/Survival%20based%20on%20various%20features.png)
                                        *Survival based on various features*
 
+![alttext](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week2_Classifiction/Images/Survival%20based%20on%20various%20features.png "caption")
 ![Survival based on Age and Gender](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week2_Classifiction/Images/Survival%20based%20on%20Sex%20%26%20Age.png)
 <figcaption>Survival based on Age and Gender.</figcaption>                                       
 
