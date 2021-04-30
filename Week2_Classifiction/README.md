@@ -11,7 +11,7 @@ Python, Pandas, Matplotlib, Seaborn, Scikit-learn
 
 ### Workflow:
 1. Data Acquisition: 
-The [data](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/tree/main/Week2_Classifiction/Data) used in this project can be found in the [data folder](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/tree/main/Week2_Classifiction/Data). 
+The [dataset](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/tree/main/Week2_Classifiction/Data) used in this project can be found in the [data folder](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/tree/main/Week2_Classifiction/Data). 
    * Features/Variables in our dataset:
       - pclass: A proxy for socio-economic status, 1st (upper), 2nd(middle) and 3rd(lower) class. 
       - sibsp: refers to family relations onboard defined as Sibling + Spouse.
@@ -28,7 +28,7 @@ A glimpse of data and its context, as well as insights captured using descriptiv
                                        *Survival based on various features*
 
 ![Survival based on Age and Gender](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week2_Classifiction/Images/Survival%20based%20on%20Sex%20%26%20Age.png)
-                                       *Survival based on Age and Gender*
+<figcaption>Survival based on Age and Gender.</figcaption>                                       
 
 4. Modeling & Evaluation:
 Several [classification models](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week2_Classifiction/Code/Modeling.ipynb) were trained and their results compared to ascertain the best performing model and fine tune that model. 
