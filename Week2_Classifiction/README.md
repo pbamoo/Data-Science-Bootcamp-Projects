@@ -20,7 +20,9 @@ The [dataset](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/tree/main
 
 2. Preprocessing:
 In order to prepare the data for machine learning, we will do some preprocessing including handling the missing data, feature transformation and selection, etc. See this [here](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week2_Classifiction/Code/Feature%20Engineering.ipynb).
-![Total Survival Rate on the Titanic](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week2_Classifiction/Images/Total%20Survival%20Rate%20on%20the%20Titanic.png "Total Survival Rate on the Titanic") 
+![Total Survival Rate on the Titanic](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week2_Classifiction/Images/Total%20Survival%20Rate%20on%20the%20Titanic.png) 
+<figcaption>Total Survival Rate on the Titanic.</figcaption>
+
 
 3. Exploratory Data Analysis(EDA):
 A glimpse of data and its context, as well as insights captured using descriptive statistics and visualization techniques can be found [here.](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week2_Classifiction/Code/EDA.ipynb).
