@@ -26,6 +26,7 @@ A glimpse of data and its context, as well as insights captured using descriptiv
 
 4. Modeling & Evaluation:
 Several [classification models](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week2_Classifiction/Code/Modeling.ipynb) were trained and their results compared to ascertain the best performing model and fine tune that model. 
+[!Confusion Matrix for the Random Forest Model](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week2_Classifiction/Images/Confusion%20Matrix%20Random%20Forest.png)
 
 5. [Summary & Outlook:]
 ![Animated Scatter Plot]()
