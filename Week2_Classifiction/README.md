@@ -10,24 +10,6 @@ The challenge of this project was to use a machine learning model to predict pas
 Python, Pandas, Matplotlib, Seaborn, Scikit-learn
 
 ### Workflow:
-1. Data Acquisition
-2. Inspection and exploration
-3. Cleaning and preparation
-4. Visualization
-5. 
-6. Forecasting
-7. Summary & Further Outlook
-
-# Week 1/12 The Gapminder Project
-   
-### Background problem / Goal:
-The challenge of this project was to analyze and visualize statistics from the [Gapminder datasets](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/tree/main/Week1_Visual_Data_Analysis/Data) and create an animated scatterplot like the one by [Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo) to illustrate the correlation between life expectancy and fertility of the world’s countries over time.
-![Gapminder](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week1_Visual_Data_Analysis/Images/Gapminder.gif)
-
-### Tools/Libraries Used: 
-Python, Pandas, Matplotlib, Seaborn, 
-
-### Workflow:
 1. Data Acquisition: 
 The [data](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/tree/main/Week2_Classifiction/Data) used in this project can be found in the [data folder](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/tree/main/Week2_Classifiction/Data). 
    * Features/Variables in our dataset:
@@ -46,7 +28,7 @@ A glimpse of data and its context, as well as insights captured using descriptiv
 Several [classification models](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week2_Classifiction/Code/Modeling.ipynb) were trained and their results compared to ascertain the best performing model and fine tune that model. 
 
 5. [Summary & Outlook:]
-![Animated Scatter Plot](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week1_Visual_Data_Analysis/Images/4_EDA_px3.gif)
+![Animated Scatter Plot]()
 
 We started with data exploration, cleaning, feature modification and creation and made predictions using 8 models from which we proceeded with the random forest classifier as the best based on the accuracy. We further proceeded to tune the hyperparameters of our chosen model after which we looked at some further methods of evaluating the model's performance. The results looked promising but of course there is still room for improvement, like doing a more extensive hyperparameter optimization on several models, identifying and removing less important features which create unnecessary noise that interferes with our algorithm.
 
