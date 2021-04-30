@@ -21,17 +21,21 @@ The [data](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/tree/main/We
 2. Preprocessing:
 In order to prepare the data for machine learning, we will do some preprocessing including handling the missing data, feature transformation and selection, etc. See this [here](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week2_Classifiction/Code/Feature%20Engineering.ipynb).
 ![Total Survival Rate on the Titanic](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week2_Classifiction/Images/Total%20Survival%20Rate%20on%20the%20Titanic.png)
+         Total Survival Rate on the Titanic
 
 3. Exploratory Data Analysis(EDA):
 A glimpse of data and its context, as well as insights captured using descriptive statistics and visualization techniques can be found [here.](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week2_Classifiction/Code/EDA.ipynb).
 ![Survival based on various features](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week2_Classifiction/Images/Survival%20based%20on%20various%20features.png)
+         Survival based on various features
 
 ![Survival based on Age and Gender](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week2_Classifiction/Images/Survival%20based%20on%20Sex%20%26%20Age.png)
+         Survival based on Age and Gender
 
 4. Modeling & Evaluation:
 Several [classification models](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week2_Classifiction/Code/Modeling.ipynb) were trained and their results compared to ascertain the best performing model and fine tune that model. 
 ![Confusion Matrix for the Random Forest Model](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week2_Classifiction/Images/Confusion%20Matrix%20Random%20Forest.png)
-
+         Confusion Matrix for the Random Forest Model
+         
 5. [Summary & Outlook:]
 We started with data exploration, cleaning, feature modification and creation and made predictions using 8 models from which we proceeded with the random forest classifier as the best based on the accuracy. We further proceeded to tune the hyperparameters of our chosen model after which we looked at some further methods of evaluating the model's performance. The results looked promising but of course there is still room for improvement, like doing a more extensive hyperparameter optimization on several models, identifying and removing less important features which create unnecessary noise that interferes with our algorithm.
 
