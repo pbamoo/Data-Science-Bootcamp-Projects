@@ -38,8 +38,3 @@ Several [classification models](https://github.com/pbamoo/Data-Science-Bootcamp-
          
 5. Summary & Outlook:
 We started with data exploration, cleaning, feature modification and creation and made predictions using 8 models from which we proceeded with the random forest classifier as the best based on the accuracy. We further proceeded to tune the hyperparameters of our chosen model after which we looked at some further methods of evaluating the model's performance. The results looked promising but of course there is still room for improvement, like doing a more extensive hyperparameter optimization on several models, identifying and removing less important features which create unnecessary noise that interferes with our algorithm.
-
-<img src="https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week2_Classifiction/Images/Confusion%20Matrix%20Random%20Forest.png" alt="Kitten"
-	title="A cute kitten" width="150" height="100" />
-   
- ![Kitten](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week2_Classifiction/Images/Confusion%20Matrix%20Random%20Forest.png "A cute kitten")
