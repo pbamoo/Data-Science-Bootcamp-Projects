@@ -38,5 +38,5 @@ Several [classification models](https://github.com/pbamoo/Data-Science-Bootcamp-
 5. Summary & Outlook:
 We started with data exploration, cleaning, feature modification and creation and made predictions using 8 models from which we proceeded with the random forest classifier as the best based on the accuracy. We further proceeded to tune the hyperparameters of our chosen model after which we looked at some further methods of evaluating the model's performance. The results looked promising but of course there is still room for improvement, like doing a more extensive hyperparameter optimization on several models, identifying and removing less important features which create unnecessary noise that interferes with our algorithm.
 
-![alttext](https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week2_Classifiction/Images/Survival%20based%20on%20various%20features.png "caption")
+{% include image.html img="https://github.com/pbamoo/Data-Science-Bootcamp-Projects/blob/main/Week2_Classifiction/Images/Survival%20based%20on%20various%20features.png" title="" caption="caption" %}
 
