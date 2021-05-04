@@ -1,7 +1,7 @@
 # Data-Science-Bootcamp-Projects
 These are projects I completed during a 12-week intensive Data Science Bootcamp at [Spiced Academy](https://www.spiced-academy.com/en/program/data-science) in Hamburg
 
-1. :bar_chart: [Animated & interactive scatterplots depicting world fertility rate and life expectancy](https://github.com/pbamoo/Gapminder-Animated-Interactive-Scatterplotss)
+1. :bar_chart: [Animated & interactive scatterplots depicting world fertility rate and life expectancy](https://github.com/pbamoo/Gapminder-Animated-Interactive-Scatterplots)
 2. :ship: [Machine learning classification model to predict passenger survival on the Titanic](https://github.com/pbamoo/Titanic_Survival_Prediction)
 3. :bike: [Regression task to predict rental bike demand based on forecasted weather conditions](https://github.com/pbamoo/Bike_Demand_Prediction)
 4. :musical_note: [Naive Bayes classifier to predict the artist from web scrapped lyrics](https://github.com/pbamoo/Artist_Lyrics_Classifier)
