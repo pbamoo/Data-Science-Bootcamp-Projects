@@ -3,6 +3,8 @@
 ### Background problem / Goal:
 In this project, we will build a text classification model on song lyrics by web scraping lyrics from any artist on lyrics.com and train a lyrics predictor model to predict the artist of the song/text.
 
+![Word Cloud](https://github.com/pbamoo/Artist_Lyrics_Classifier/blob/main/Image/BOW.png)
+
 ### Tools/Libraries Used: 
 Python, Pandas, Matplotlib, Scikit-learn, Wordcloud, nltk, BeautifulSoup
 
