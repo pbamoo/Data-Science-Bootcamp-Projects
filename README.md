@@ -10,4 +10,4 @@ These are projects I completed during a 12-week intensive Data Science Bootcamp 
 7. :umbrella: [Time series analysis and short-term temperature forecast in Bremen](https://github.com/pbamoo/Weather_Forecasting)
 8. :convenience_store: [Monte-Carlo-Markov-Chain simulation of customer paths/behavior in a supermarket](https://github.com/pbamoo/MCMC_Supermarket_Simulation)
 9. :1234: [Artificial Neural Network recognizing handwritten digits from the MNIST dataset](https://github.com/pbamoo/ANN_MNIST)
-10. :movie_camera: [Movie recommender system with a Flask web interface](https://github.com/pbamoo/Movie_Recommender)
+10. :movie_camera: [Movie recommender system with a Flask web interface](https://github.com/pbamoo/bfjr_mov_rec)
