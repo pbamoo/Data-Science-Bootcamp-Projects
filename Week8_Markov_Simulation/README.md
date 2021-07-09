@@ -7,10 +7,6 @@ In this project, the goal is to write a program that simulates customer behaviou
 Python, Pandas, Numpy, Matplotlib, Plotly, Scikit-learn, opencv
 
 ### Workflow:
-1. Data Acquisition
-2. Inspection and exploration
-3. Cleaning and preparation
-4. Visualization
-5. Modeling & Evaluation
-6. Forecasting
-7. Summary & Further Outlook
+1. Exploratory data analysis
+2. Simulation of new customers in the supermarket
+3. Animation
